@@ -4,7 +4,8 @@ SAS analysis and Duncan mulitple range test was used for doing statistical analy
 Excel regression data analysis was used for correlations between VOC and physiology.
 
 # All the data in the spreadsheet are title below
-Figure 6 (a) Calibration curve of the methanol sensor for 12, 25 and 50 cycles of spray deposited PtNPs at room temperature with concentration axis in logarithm scale. (b) Sensor response measured at 40%, 50%, 60%, 70%, 80% and 90% RH. (c) Selectivity test conducted under different interfering gases including CH4, C2H4, and NH3, and their mixtures, as well as the target gas methanol (CH3OH). (d) Calibration curve of the α-pinene sensor for 10 µL of MIP drop-cast. (e) Sensor response measured at 40%, 50%, 60%, 70%, 80% and 90% RH. (f) Selectivity test conducted under different interfering gases including CH4, C2H4, NH3, CH3OH and their mixtures, as well as the target gas α-pinene.
+# Figure 6 
+(a) Calibration curve of the methanol sensor for 12, 25 and 50 cycles of spray deposited PtNPs at room temperature with concentration axis in logarithm scale. (b) Sensor response measured at 40%, 50%, 60%, 70%, 80% and 90% RH. (c) Selectivity test conducted under different interfering gases including CH4, C2H4, and NH3, and their mixtures, as well as the target gas methanol (CH3OH). (d) Calibration curve of the α-pinene sensor for 10 µL of MIP drop-cast. (e) Sensor response measured at 40%, 50%, 60%, 70%, 80% and 90% RH. (f) Selectivity test conducted under different interfering gases including CH4, C2H4, NH3, CH3OH and their mixtures, as well as the target gas α-pinene.
 # Figure 7. 
 (a) S1 and (b) S2 methanol sensor responses from cotton plants under N stress, with data recorded daily. (c) S3 and (d) S4 methanol sensor responses from cotton plants under high N treatment conditions, with data recorded daily. 
 # Figure 8. 
