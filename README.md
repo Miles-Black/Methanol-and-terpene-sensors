@@ -1,5 +1,5 @@
 # Methanol-and-terpene-sensors
-An Integrated Methanol and Terpene Sensing Platform for Real-Time VOC Profiling of Nitrogen-Stressed Cotton Plants
+An Integrated Methanol and Terpene Sensing Platform for Real-Time VOC Profiling of Nitrogen-Stressed Cotton Plants.
 SAS analysis and Duncan mulitple range test was used for doing statistical analysis
 Excel regression data analysis was used for correlations between VOC and physiology
 
